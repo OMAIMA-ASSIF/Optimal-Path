@@ -1,2 +1,2 @@
 # Optimal-Path
-Bellmen-Ford Djikstra Ford
+Bollmen-Ford Djikstra Ford
